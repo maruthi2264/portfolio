@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 💻 Network Engineer
-- 🔧 Working on Cisco, Peplink, VPN, NAT
+- 🔧 Working on Cisco, Peplink.
 - 📍 Pune, India
 
 ## 🛠 Skills
@@ -20,4 +20,4 @@
 - GNS3 Labs
 
 ## 📫 Contact
-- Email: your-email@gmail.com
+- Email: gondmaruthi789@gmail.com
