@@ -7,7 +7,7 @@
 
 ## 🛠 Skills
 - Networking: Cisco, Peplink, Firewall
-- Protocols: TCP/IP, VPN, NAT
+- Protocols: TCP/IP, UDP, EIGRP, OSPF, BGP, IPSEC
 - Tools: GNS3, Packet Tracer
 
 ## 📚 Currently Learning
